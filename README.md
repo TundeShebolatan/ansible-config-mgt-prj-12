@@ -2,3 +2,5 @@
 Ansible configuration management (part 2)
 
 Testing 
+
+save arteacts
