@@ -2,5 +2,6 @@
 
 Ansible configuration management (part 2)
 
-save artifacts
+
+save artifact
 
